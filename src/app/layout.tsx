@@ -27,8 +27,8 @@ interface RootLayoutProps {
 }
 
 export const metadata: Metadata = {
-  title: "Friendly Conf",
-  description: "Build AI-powered web apps with Gemini API Firebase Extensions",
+  title: "Plato Bot",
+  description: "Ancient Philosophy Meets The Modern Day",
 };
 
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
